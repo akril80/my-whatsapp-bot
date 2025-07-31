@@ -1,0 +1,8 @@
+{
+  "name": "my-whatsapp-bot",
+  "version": "1.0.0",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.37.3"
+  }
+}
